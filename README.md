@@ -1,6 +1,6 @@
-# Project 3 - *Twitter Clone*
+# Twitter - Part I
 
-**Twitter Clone** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **3** hours spent in total
 
@@ -23,5 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://github.com/isimplyexcel/twitter_clone/blob/master/twitter_clone.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
